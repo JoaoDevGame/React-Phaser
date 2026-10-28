@@ -169,8 +169,8 @@ O agente **deve seguir as fases em ordem**, informando ao usuário em qual fase 
 23. Dificuldade: **fixa, selecionável, adaptativa**? Como o jogador aprende (tutorial)? o jogom vai ter idade e ser a pessoa ser for de 10 anos vai ser um pouco mais facil e a pessoa vai jogar com outras pessoas baixas e ser a pessoa ser for 18 anos vai ser um pouco difícil 
 
 ### Bloco E — Narrativa, arte e áudio
-24. Existe **história/lore**? Qual o nível de narrativa (nenhuma, contextual, central)?
-25. ⭐ **Estilo visual**: pixel art (resolução base?), vetor, low-poly 2D, hand-drawn? **Paleta** de cores?
+24. Existe **história/lore**? Qual o nível de narrativa (nenhuma, contextual, central)? vai ter um modo de história e de lore quer você jogar mais jogando coma história e lore do jogo
+25. ⭐ **Estilo visual**: pixel art (resolução base?), vetor, low-poly 2D, hand-drawn? **Paleta** de cores? 
 26. **Estilo musical e sonoro** desejado? Haverá voz/dublagem?
 27. Os **assets** serão: criados por você, comprados, gerados por IA, open-source? (Atenção às licenças.)
 
