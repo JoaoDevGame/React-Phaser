@@ -138,11 +138,11 @@ O agente **deve seguir as fases em ordem**, informando ao usuário em qual fase 
 > ⭐ = crítica (obrigatória). Use exemplos para ajudar o usuário. Aceite "não sei" e proponha opções.
 
 ### Bloco A — Visão e conceito
-1. ⭐ Qual é o **nome (ou nome provisório)** do jogo?
-2. ⭐ Descreva o jogo em **1–2 frases** (elevator pitch). *Ex.: "Um platformer onde o jogador controla o tempo para resolver puzzles."*
-3. ⭐ Qual **gênero** (ou combinação)? *Ex.: platformer, puzzle, roguelike, tower defense, endless runner, visual novel, top-down shooter, idle, card battler.*
-4. Quais **jogos/mídias inspiram** a ideia e o que você quer **fazer diferente**?
-5. ⭐ Qual é a **experiência emocional** desejada? *Ex.: tensão, relaxamento, desafio, humor, nostalgia.*
+1. ⭐ **nome do jogo Céu de Aço
+2. ⭐ o jogo de Céu de aço quer combina com guerra, espaço e estratégia
+3. ⭐ Qual **gênero** (ou combinação)? *Ex.: guerra, espaço e estratégia
+4. Quais **jogos/mídias inspiram** a ideia e o que você quer **fazer diferente**? então como e um jogo de guerra, espaço e estratégia é as pessoas podem criar suas proprias estratégia
+5. ⭐ Qual é a **experiência emocional** desejada? *Ex.: missões, desafios e online
 6. Quais são os **3 pilares de design** (princípios que não podem ser quebrados)?
 
 ### Bloco B — Público e mercado
@@ -160,13 +160,13 @@ O agente **deve seguir as fases em ordem**, informando ao usuário em qual fase 
 16. Há **preferências** de stack além de React + Phaser (Zustand, Redux, Tailwind, Supabase…)?
 
 ### Bloco D — Gameplay
-17. ⭐ Qual é o **loop principal** (o que o jogador faz a cada 10–30 s)?
-18. ⭐ Quais **mecânicas centrais** existem (mover, pular, atirar, combinar, construir, coletar…)?
+17. ⭐ Qual é o **loop principal** (o que o jogador faz a cada 10–30 s)? a 10 segudos o jogador ficar ou deitado no chão e ser esperar muito ele ficar fazendo um monte de coisas como dança pegar alguma coisa e ficar esperando você controlar ele 
+18. ⭐ Quais **mecânicas centrais** existem (mover, pular, atirar, combinar, construir, coletar…)? sim ele faz sim
 19. ⭐ Quais são as **condições de vitória e derrota**?
 20. Como funciona a **progressão** (níveis, XP, desbloqueios, árvore de habilidades, meta-progressão)?
-21. Existe **economia** (moedas, recursos, loja, upgrades)?
-22. Há **inimigos, NPCs, chefes** ou **obstáculos**? Quais comportamentos?
-23. Dificuldade: **fixa, selecionável, adaptativa**? Como o jogador aprende (tutorial)?
+21. Existe **economia** (moedas, recursos, loja, upgrades)? são apenas loja, recursos e o upgrades
+22. Há **inimigos, NPCs, chefes** ou **obstáculos**? Quais comportamentos? tem inimigos sim e npcs e chefes
+23. Dificuldade: **fixa, selecionável, adaptativa**? Como o jogador aprende (tutorial)? o jogom vai ter idade e ser a pessoa ser for de 10 anos vai ser um pouco mais facil e a pessoa vai jogar com outras pessoas baixas e ser a pessoa ser for 18 anos vai ser um pouco difícil 
 
 ### Bloco E — Narrativa, arte e áudio
 24. Existe **história/lore**? Qual o nível de narrativa (nenhuma, contextual, central)?
